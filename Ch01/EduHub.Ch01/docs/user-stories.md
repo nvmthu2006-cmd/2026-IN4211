@@ -1,3 +1,4 @@
+ ch01/0024416414
 # EduHub - User Stories
 
 ## 1. Actor: Sinh viên
@@ -125,3 +126,8 @@ Acceptance Criteria:
 - Given a membership request is invalid,
   when the administrator attempts to approve it,
   then the system rejects the request.
+
+# User Stories
+
+Tai lieu mo ta cac yeu cau cua nguoi dung trong he thong EduHub.
+ main

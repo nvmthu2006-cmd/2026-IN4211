@@ -1,3 +1,4 @@
+ ch01/0024416414
 # EduHub - Quản lý CLB & Sự kiện Sinh viên (Ch01)
 
 Dự án EduHub phục vụ môn học Phát triển phần mềm hướng đối tượng (IN4211).
@@ -19,3 +20,14 @@ Hệ thống bao gồm 5 lớp thực thể chính nằm trong thư mục `Domai
 2. Chạy lệnh sau để biên dịch và chạy chương trình:
 ## 4. Kết quả chạy Demo
 ![Kết quả chạy ứng dụng](docs/demo-output.png)
+
+# EduHub.Ch01
+
+Project C# cho bài tập chương 1 môn IN4211.
+
+## Nội dung
+- Domain Modeling
+- User Stories
+- Class Diagram
+- Console Demo
+ main
